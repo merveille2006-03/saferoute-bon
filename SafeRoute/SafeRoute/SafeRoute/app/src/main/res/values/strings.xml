@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SafeRoute</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Accueil</string>
+    <string name="nav_contacts">Contacts</string>
+    <string name="nav_zones">Zones</string>
+    <string name="nav_settings">Paramètres</string>
+    <string name="nav_history">Historique</string>
+
+    <!-- Common -->
+    <string name="cancel">Annuler</string>
+    <string name="confirm">Confirmer</string>
+    <string name="save">Enregistrer</string>
+    <string name="delete">Supprimer</string>
+    <string name="edit">Modifier</string>
+    <string name="add">Ajouter</string>
+    <string name="back">Retour</string>
+    <string name="close">Fermer</string>
+    <string name="loading">Chargement…</string>
+    <string name="error">Erreur</string>
+    <string name="success">Succès</string>
+
+    <!-- Login -->
+    <string name="login_title">Connexion</string>
+    <string name="login_pin_hint">Code PIN</string>
+    <string name="login_biometric">Empreinte digitale</string>
+    <string name="login_button">Se connecter</string>
+
+    <!-- Home -->
+    <string name="home_title">SafeRoute</string>
+    <string name="home_status_protection">Protection</string>
+    <string name="home_status_gps">GPS</string>
+    <string name="home_status_zones">Zones</string>
+    <string name="home_sos_button">SOS</string>
+    <string name="home_sos_hint">Maintenez pour alerter</string>
+    <string name="home_fall_detected">Chute détectée!</string>
+    <string name="home_fall_message">Êtes-vous OK? Répondez dans 30 secondes.</string>
+    <string name="home_fall_ok">Je vais bien</string>
+    <string name="home_fall_alert">Envoyer alerte</string>
+
+    <!-- Contacts -->
+    <string name="contacts_title">Contacts d\'urgence</string>
+    <string name="contacts_empty">Aucun contact</string>
+    <string name="contacts_empty_hint">Ajoutez des contacts d\'urgence qui seront alertés en cas de danger</string>
+    <string name="contacts_add">Ajouter un contact</string>
+    <string name="contacts_name">Nom</string>
+    <string name="contacts_phone">Téléphone</string>
+    <string name="contacts_email">Email (optionnel)</string>
+    <string name="contacts_relationship">Relation</string>
+    <string name="contacts_family">Famille</string>
+    <string name="contacts_friend">Ami</string>
+    <string name="contacts_colleague">Collègue</string>
+    <string name="contacts_other">Autre</string>
+
+    <!-- Safe Zones -->
+    <string name="zones_title">Zones sécurisées</string>
+    <string name="zones_empty">Aucune zone sécurisée</string>
+    <string name="zones_empty_hint">Définissez des zones comme votre domicile ou votre travail</string>
+    <string name="zones_add">Ajouter une zone</string>
+    <string name="zones_name">Nom de la zone</string>
+    <string name="zones_radius">Rayon (mètres)</string>
+    <string name="zones_type">Type de zone</string>
+    <string name="zones_home">Domicile</string>
+    <string name="zones_work">Travail</string>
+    <string name="zones_school">École</string>
+    <string name="zones_inside">À l\'intérieur</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Paramètres</string>
+    <string name="settings_protection">Protection</string>
+    <string name="settings_fall_detection">Détection de chute</string>
+    <string name="settings_fall_detection_hint">Surveille les mouvements pour détecter les chutes</string>
+    <string name="settings_location_tracking">Suivi GPS</string>
+    <string name="settings_location_tracking_hint">Surveille votre position en arrière-plan</string>
+    <string name="settings_zone_monitoring">Surveillance des zones</string>
+    <string name="settings_zone_monitoring_hint">Alerte en cas de sortie anormale d\'une zone</string>
+    <string name="settings_sensitivity">Sensibilité</string>
+    <string name="settings_sensitivity_low">Faible</string>
+    <string name="settings_sensitivity_medium">Moyenne</string>
+    <string name="settings_sensitivity_high">Élevée</string>
+    <string name="settings_auto_send">Envoi automatique</string>
+    <string name="settings_auto_send_hint">Envoyer l\'alerte si pas de réponse après 30s</string>
+    <string name="settings_sos">Alerte SOS</string>
+    <string name="settings_countdown">Compte à rebours</string>
+    <string name="settings_include_location">Inclure la position</string>
+    <string name="settings_include_location_hint">Joindre votre position GPS aux alertes</string>
+    <string name="settings_security">Sécurité</string>
+    <string name="settings_biometric">Empreinte digitale</string>
+    <string name="settings_biometric_hint">Requiert l\'authentification biométrique</string>
+    <string name="settings_notifications">Notifications</string>
+    <string name="settings_sound">Sons</string>
+    <string name="settings_sound_hint">Jouer des sons pour les alertes</string>
+    <string name="settings_vibration">Vibrations</string>
+    <string name="settings_vibration_hint">Vibrer pour les alertes</string>
+    <string name="settings_communication">Communication</string>
+    <string name="settings_bluetooth">Bluetooth</string>
+    <string name="settings_bluetooth_hint">Fonctionnement hors ligne via Bluetooth</string>
+    <string name="settings_reset">Réinitialiser les paramètres</string>
+
+    <!-- History -->
+    <string name="history_fall_title">Historique des chutes</string>
+    <string name="history_fall_empty">Aucune chute détectée</string>
+    <string name="history_fall_empty_hint">C\'est une bonne nouvelle!</string>
+    <string name="history_alert_title">Historique des alertes</string>
+    <string name="history_alert_empty">Aucune alerte</string>
+    <string name="history_stats">Statistiques</string>
+    <string name="history_total">Total</string>
+    <string name="history_manual">SOS</string>
+    <string name="history_fall">Chutes</string>
+    <string name="history_zone">Zones</string>
+    <string name="history_success_rate">Taux de succès</string>
+
+    <!-- Permissions -->
+    <string name="permissions_title">Permissions requises</string>
+    <string name="permissions_description">SafeRoute a besoin de certaines permissions pour fonctionner correctement</string>
+    <string name="permissions_location">Localisation</string>
+    <string name="permissions_location_hint">Pour suivre votre position et envoyer vos coordonnées</string>
+    <string name="permissions_sms">SMS</string>
+    <string name="permissions_sms_hint">Pour envoyer des alertes à vos contacts</string>
+    <string name="permissions_notifications">Notifications</string>
+    <string name="permissions_notifications_hint">Pour vous alerter en cas de danger</string>
+    <string name="permissions_grant">Accorder les permissions</string>
+    <string name="permissions_continue">Continuer</string>
+
+    <!-- Notifications -->
+    <string name="notification_fall_title">Détection de chute active</string>
+    <string name="notification_fall_text">Surveillance en arrière-plan…</string>
+    <string name="notification_location_title">Suivi de localisation actif</string>
+    <string name="notification_location_text">SafeRoute surveille votre position</string>
+    <string name="notification_sos_title">Alerte SOS envoyée</string>
+    <string name="notification_sos_text">Vos contacts d\'urgence ont été notifiés</string>
+    <string name="notification_zone_title">Sortie de zone détectée</string>
+
+    <!-- Alert Messages -->
+    <string name="alert_sos_title">Confirmer l\'alerte SOS</string>
+    <string name="alert_sos_message">Cette action enverra immédiatement une alerte à tous vos contacts d\'urgence</string>
+    <string name="alert_sos_send">Envoyer l\'alerte</string>
+</resources>
