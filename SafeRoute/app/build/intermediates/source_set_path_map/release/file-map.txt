@@ -1,0 +1,74 @@
+com.saferoute.app-hilt-navigation-compose-1.1.0-0 C:\Users\MERVEILLE\.gradle\caches\transforms-3\04526be035cd220b60638171e286ca61\transformed\hilt-navigation-compose-1.1.0\res
+com.saferoute.app-savedstate-ktx-1.2.1-1 C:\Users\MERVEILLE\.gradle\caches\transforms-3\0b9c9978ad483e9bf7be8b549e4d91ee\transformed\savedstate-ktx-1.2.1\res
+com.saferoute.app-fragment-1.5.1-2 C:\Users\MERVEILLE\.gradle\caches\transforms-3\16f06058420edae2fcc1d533ae95d7a0\transformed\fragment-1.5.1\res
+com.saferoute.app-room-ktx-2.6.1-3 C:\Users\MERVEILLE\.gradle\caches\transforms-3\1725d60cc1f3f04bae1aa0f556cd94c7\transformed\room-ktx-2.6.1\res
+com.saferoute.app-savedstate-1.2.1-4 C:\Users\MERVEILLE\.gradle\caches\transforms-3\18ea79e1bef623cf6e57bd5b98f1a347\transformed\savedstate-1.2.1\res
+com.saferoute.app-navigation-common-ktx-2.7.7-5 C:\Users\MERVEILLE\.gradle\caches\transforms-3\19b684c02167a7be31ba112f963419fc\transformed\navigation-common-ktx-2.7.7\res
+com.saferoute.app-lifecycle-viewmodel-ktx-2.6.2-6 C:\Users\MERVEILLE\.gradle\caches\transforms-3\20516ae45de8d76c99fca1375d65ab16\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.saferoute.app-navigation-common-2.7.7-7 C:\Users\MERVEILLE\.gradle\caches\transforms-3\20f41bd848eb1c9dcb53c6fcac3494b1\transformed\navigation-common-2.7.7\res
+com.saferoute.app-animation-release-8 C:\Users\MERVEILLE\.gradle\caches\transforms-3\22105bb15c4408b41207ee5d82009746\transformed\animation-release\res
+com.saferoute.app-startup-runtime-1.1.1-9 C:\Users\MERVEILLE\.gradle\caches\transforms-3\268b1e5e77d5c7840532adb2d24eff94\transformed\startup-runtime-1.1.1\res
+com.saferoute.app-room-runtime-2.6.1-10 C:\Users\MERVEILLE\.gradle\caches\transforms-3\2700a7742772c90fc5b42d2886a9ff3a\transformed\room-runtime-2.6.1\res
+com.saferoute.app-lifecycle-runtime-compose-2.6.2-11 C:\Users\MERVEILLE\.gradle\caches\transforms-3\289fa28f7345d5d6c4c1c68e36533916\transformed\lifecycle-runtime-compose-2.6.2\res
+com.saferoute.app-play-services-basement-18.2.0-12 C:\Users\MERVEILLE\.gradle\caches\transforms-3\2c34f596132a74ffba88a75de8eae2c2\transformed\play-services-basement-18.2.0\res
+com.saferoute.app-datastore-1.0.0-13 C:\Users\MERVEILLE\.gradle\caches\transforms-3\2f494d58a858a6358e27537b1f63adc8\transformed\datastore-1.0.0\res
+com.saferoute.app-appcompat-1.2.0-14 C:\Users\MERVEILLE\.gradle\caches\transforms-3\378ea273c22600729de30dd1bf17f9bb\transformed\appcompat-1.2.0\res
+com.saferoute.app-bluetooth-1.0.0-alpha02-15 C:\Users\MERVEILLE\.gradle\caches\transforms-3\3adc5e75ad6a4077c3b81ae4517e3c93\transformed\bluetooth-1.0.0-alpha02\res
+com.saferoute.app-play-services-auth-20.7.0-16 C:\Users\MERVEILLE\.gradle\caches\transforms-3\3bfb54ac6724be6537c36df19be1b70a\transformed\play-services-auth-20.7.0\res
+com.saferoute.app-lifecycle-livedata-core-2.6.2-17 C:\Users\MERVEILLE\.gradle\caches\transforms-3\3e2a8dd7102f674d6e0a962d16ea32d5\transformed\lifecycle-livedata-core-2.6.2\res
+com.saferoute.app-runtime-saveable-release-18 C:\Users\MERVEILLE\.gradle\caches\transforms-3\4238b767578ae7897dd844a3929b18ec\transformed\runtime-saveable-release\res
+com.saferoute.app-appcompat-resources-1.2.0-19 C:\Users\MERVEILLE\.gradle\caches\transforms-3\4667d8eba691e5679279f890edeedc7f\transformed\appcompat-resources-1.2.0\res
+com.saferoute.app-activity-ktx-1.8.1-20 C:\Users\MERVEILLE\.gradle\caches\transforms-3\491da33d21ea9c2a084a08eb4b9a4699\transformed\activity-ktx-1.8.1\res
+com.saferoute.app-navigation-runtime-ktx-2.7.7-21 C:\Users\MERVEILLE\.gradle\caches\transforms-3\4afc7065565a2d5a4666da21e226f7f7\transformed\navigation-runtime-ktx-2.7.7\res
+com.saferoute.app-runtime-release-22 C:\Users\MERVEILLE\.gradle\caches\transforms-3\4de0711f6f5706638995c8d130e5f9e0\transformed\runtime-release\res
+com.saferoute.app-biometric-1.1.0-23 C:\Users\MERVEILLE\.gradle\caches\transforms-3\4f08df8b069a62ef8e8f305efada2b71\transformed\biometric-1.1.0\res
+com.saferoute.app-material-icons-core-release-24 C:\Users\MERVEILLE\.gradle\caches\transforms-3\4f3e488b553ef2305504a508296d4136\transformed\material-icons-core-release\res
+com.saferoute.app-activity-compose-1.8.1-25 C:\Users\MERVEILLE\.gradle\caches\transforms-3\526d5c6573c1d2a8d6889a17ffeb6f81\transformed\activity-compose-1.8.1\res
+com.saferoute.app-ui-geometry-release-26 C:\Users\MERVEILLE\.gradle\caches\transforms-3\6866f904f418c1f46ae0045986fcfb95\transformed\ui-geometry-release\res
+com.saferoute.app-hilt-navigation-1.1.0-27 C:\Users\MERVEILLE\.gradle\caches\transforms-3\68b69fe5d892303d84a33baa42fd6a65\transformed\hilt-navigation-1.1.0\res
+com.saferoute.app-navigation-runtime-2.7.7-28 C:\Users\MERVEILLE\.gradle\caches\transforms-3\6f860e93cebd7dc46f56cd63cf071385\transformed\navigation-runtime-2.7.7\res
+com.saferoute.app-emoji2-1.3.0-29 C:\Users\MERVEILLE\.gradle\caches\transforms-3\7000a96fdecd5e0d93ba2dd857bd086d\transformed\emoji2-1.3.0\res
+com.saferoute.app-material3-release-30 C:\Users\MERVEILLE\.gradle\caches\transforms-3\72aa7a3853a37f7426bdbe73bc574be6\transformed\material3-release\res
+com.saferoute.app-navigation-compose-2.7.7-31 C:\Users\MERVEILLE\.gradle\caches\transforms-3\7320f7593cec9b86fe2117cc4090384c\transformed\navigation-compose-2.7.7\res
+com.saferoute.app-datastore-preferences-1.0.0-32 C:\Users\MERVEILLE\.gradle\caches\transforms-3\78bf395d587c76dd9bfac73db7c5786d\transformed\datastore-preferences-1.0.0\res
+com.saferoute.app-work-runtime-ktx-2.9.0-33 C:\Users\MERVEILLE\.gradle\caches\transforms-3\7b07e2b0457ef3299f0b8b7f0dbf1027\transformed\work-runtime-ktx-2.9.0\res
+com.saferoute.app-core-runtime-2.2.0-34 C:\Users\MERVEILLE\.gradle\caches\transforms-3\7f909446573553ba399cd7ea71cec210\transformed\core-runtime-2.2.0\res
+com.saferoute.app-activity-1.8.1-35 C:\Users\MERVEILLE\.gradle\caches\transforms-3\7fec9c47cf16bf97aef21f648a99cef3\transformed\activity-1.8.1\res
+com.saferoute.app-animation-core-release-36 C:\Users\MERVEILLE\.gradle\caches\transforms-3\80f6404dbd4c31df7171fb769cc9d8f8\transformed\animation-core-release\res
+com.saferoute.app-sqlite-2.4.0-37 C:\Users\MERVEILLE\.gradle\caches\transforms-3\81e2e43971be25e294f231ffb47a36b6\transformed\sqlite-2.4.0\res
+com.saferoute.app-ui-tooling-preview-release-38 C:\Users\MERVEILLE\.gradle\caches\transforms-3\90bb4f7058db5c6c9ea13822bbb4db8d\transformed\ui-tooling-preview-release\res
+com.saferoute.app-ui-release-39 C:\Users\MERVEILLE\.gradle\caches\transforms-3\94ad3d80bbf12cc8f29ab540e8228da9\transformed\ui-release\res
+com.saferoute.app-lifecycle-runtime-ktx-2.6.2-40 C:\Users\MERVEILLE\.gradle\caches\transforms-3\999f7785dd6e2abf08f329665ad7f180\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.saferoute.app-sqlite-framework-2.4.0-41 C:\Users\MERVEILLE\.gradle\caches\transforms-3\a46e60cc7bca45d7f1bcf505fb38502a\transformed\sqlite-framework-2.4.0\res
+com.saferoute.app-ui-text-release-42 C:\Users\MERVEILLE\.gradle\caches\transforms-3\a6ae4196c0278fe11ced1e1c9b065fdb\transformed\ui-text-release\res
+com.saferoute.app-material-icons-extended-release-43 C:\Users\MERVEILLE\.gradle\caches\transforms-3\a8f3a658fa90cbde242c3fcbecb0df22\transformed\material-icons-extended-release\res
+com.saferoute.app-annotation-experimental-1.4.0-44 C:\Users\MERVEILLE\.gradle\caches\transforms-3\a99596030b973d33fe9094dc9c508043\transformed\annotation-experimental-1.4.0\res
+com.saferoute.app-core-splashscreen-1.0.1-45 C:\Users\MERVEILLE\.gradle\caches\transforms-3\ab2d6b9bd6234756d0b96229b7f62035\transformed\core-splashscreen-1.0.1\res
+com.saferoute.app-foundation-layout-release-46 C:\Users\MERVEILLE\.gradle\caches\transforms-3\ad9ba199086bb4cd772d0d7134912aa8\transformed\foundation-layout-release\res
+com.saferoute.app-material-ripple-release-47 C:\Users\MERVEILLE\.gradle\caches\transforms-3\b2130a43c685250c36919f11dd32fcc6\transformed\material-ripple-release\res
+com.saferoute.app-ui-util-release-48 C:\Users\MERVEILLE\.gradle\caches\transforms-3\b2885cf0f8da72120295202a6b6383c6\transformed\ui-util-release\res
+com.saferoute.app-ui-graphics-release-49 C:\Users\MERVEILLE\.gradle\caches\transforms-3\ba5a01a31e08eee72b3d136b7b9561e4\transformed\ui-graphics-release\res
+com.saferoute.app-lifecycle-livedata-2.6.2-50 C:\Users\MERVEILLE\.gradle\caches\transforms-3\ba8e33e2d23173b46e7437ac53640a25\transformed\lifecycle-livedata-2.6.2\res
+com.saferoute.app-work-runtime-2.9.0-51 C:\Users\MERVEILLE\.gradle\caches\transforms-3\bd2e2f3242437a98dd9a96135ad37924\transformed\work-runtime-2.9.0\res
+com.saferoute.app-lifecycle-process-2.6.2-52 C:\Users\MERVEILLE\.gradle\caches\transforms-3\c3bd0d42e74234d74d708bac4197a349\transformed\lifecycle-process-2.6.2\res
+com.saferoute.app-play-services-base-18.1.0-53 C:\Users\MERVEILLE\.gradle\caches\transforms-3\c7325e32ad0b929285b4aec7e2036c35\transformed\play-services-base-18.1.0\res
+com.saferoute.app-profileinstaller-1.3.0-54 C:\Users\MERVEILLE\.gradle\caches\transforms-3\c9fe3694507460804c2d96ad8fa9010c\transformed\profileinstaller-1.3.0\res
+com.saferoute.app-ui-unit-release-55 C:\Users\MERVEILLE\.gradle\caches\transforms-3\cab163748c51b5fed7c189e054468f52\transformed\ui-unit-release\res
+com.saferoute.app-play-services-maps-18.2.0-56 C:\Users\MERVEILLE\.gradle\caches\transforms-3\cc7540340636f3c1b230c7e7aa937848\transformed\play-services-maps-18.2.0\res
+com.saferoute.app-maps-compose-4.1.1-57 C:\Users\MERVEILLE\.gradle\caches\transforms-3\cd0170cab9c50ed0fd1124285083e6eb\transformed\maps-compose-4.1.1\res
+com.saferoute.app-core-ktx-1.12.0-58 C:\Users\MERVEILLE\.gradle\caches\transforms-3\cd21a202cf766b0c0e9effc71f79b89d\transformed\core-ktx-1.12.0\res
+com.saferoute.app-lifecycle-runtime-2.6.2-59 C:\Users\MERVEILLE\.gradle\caches\transforms-3\cf08d7f3d3d91e7ae78951a9915ee14c\transformed\lifecycle-runtime-2.6.2\res
+com.saferoute.app-lifecycle-viewmodel-savedstate-2.6.2-60 C:\Users\MERVEILLE\.gradle\caches\transforms-3\d10333c38aa63a531e8d73f06ac48096\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.saferoute.app-lifecycle-service-2.6.2-61 C:\Users\MERVEILLE\.gradle\caches\transforms-3\e0b90fae4570c3ad1481f3b1ad9ef968\transformed\lifecycle-service-2.6.2\res
+com.saferoute.app-lifecycle-viewmodel-2.6.2-62 C:\Users\MERVEILLE\.gradle\caches\transforms-3\e2a3867e2013317a053c476ca3516e13\transformed\lifecycle-viewmodel-2.6.2\res
+com.saferoute.app-lifecycle-viewmodel-compose-2.6.2-63 C:\Users\MERVEILLE\.gradle\caches\transforms-3\e3879939c82525ab333b5ff9d67d4c4a\transformed\lifecycle-viewmodel-compose-2.6.2\res
+com.saferoute.app-customview-poolingcontainer-1.0.0-64 C:\Users\MERVEILLE\.gradle\caches\transforms-3\e76ab719727a9e1160333ead426d7f15\transformed\customview-poolingcontainer-1.0.0\res
+com.saferoute.app-core-1.12.0-65 C:\Users\MERVEILLE\.gradle\caches\transforms-3\f24ca4c065ce2c9979c50285c7cc4b72\transformed\core-1.12.0\res
+com.saferoute.app-foundation-release-66 C:\Users\MERVEILLE\.gradle\caches\transforms-3\fa839c18eeedf1aada7a1a70258d4836\transformed\foundation-release\res
+com.saferoute.app-resValues-67 C:\Users\MERVEILLE\Downloads\Telegram Desktop\SafeRoute\SafeRoute\SafeRoute\app\build\generated\res\resValues\release
+com.saferoute.app-packageReleaseResources-68 C:\Users\MERVEILLE\Downloads\Telegram Desktop\SafeRoute\SafeRoute\SafeRoute\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.saferoute.app-packageReleaseResources-69 C:\Users\MERVEILLE\Downloads\Telegram Desktop\SafeRoute\SafeRoute\SafeRoute\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.saferoute.app-merged-not-compiled-resources-70 C:\Users\MERVEILLE\Downloads\Telegram Desktop\SafeRoute\SafeRoute\SafeRoute\app\build\intermediates\merged-not-compiled-resources\release
+com.saferoute.app-merged_res-71 C:\Users\MERVEILLE\Downloads\Telegram Desktop\SafeRoute\SafeRoute\SafeRoute\app\build\intermediates\merged_res\release
+com.saferoute.app-main-72 C:\Users\MERVEILLE\Downloads\Telegram Desktop\SafeRoute\SafeRoute\SafeRoute\app\src\main\res
+com.saferoute.app-release-73 C:\Users\MERVEILLE\Downloads\Telegram Desktop\SafeRoute\SafeRoute\SafeRoute\app\src\release\res

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.saferoute.app-mergeReleaseResources-69:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\MERVEILLE\\.gradle\\caches\\transforms-3\\378ea273c22600729de30dd1bf17f9bb\\transformed\\appcompat-1.2.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

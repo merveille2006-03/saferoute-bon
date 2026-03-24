@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.saferoute.app-merged_res-75:/drawable_ic_check.xml.flat",
+        "source": "com.saferoute.app-main-77:/drawable/ic_check.xml"
+    },
+    {
+        "merged": "com.saferoute.app-merged_res-75:/xml_backup_rules.xml.flat",
+        "source": "com.saferoute.app-main-77:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.saferoute.app-merged_res-75:/drawable_ic_error.xml.flat",
+        "source": "com.saferoute.app-main-77:/drawable/ic_error.xml"
+    },
+    {
+        "merged": "com.saferoute.app-merged_res-75:/drawable_ic_safe_zone.xml.flat",
+        "source": "com.saferoute.app-main-77:/drawable/ic_safe_zone.xml"
+    },
+    {
+        "merged": "com.saferoute.app-merged_res-75:/drawable_ic_location.xml.flat",
+        "source": "com.saferoute.app-main-77:/drawable/ic_location.xml"
+    },
+    {
+        "merged": "com.saferoute.app-merged_res-75:/drawable_ic_cancel.xml.flat",
+        "source": "com.saferoute.app-main-77:/drawable/ic_cancel.xml"
+    },
+    {
+        "merged": "com.saferoute.app-merged_res-75:/drawable_ic_alert.xml.flat",
+        "source": "com.saferoute.app-main-77:/drawable/ic_alert.xml"
+    },
+    {
+        "merged": "com.saferoute.app-merged_res-75:/drawable_ic_sos.xml.flat",
+        "source": "com.saferoute.app-main-77:/drawable/ic_sos.xml"
+    },
+    {
+        "merged": "com.saferoute.app-merged_res-75:/drawable_ic_warning.xml.flat",
+        "source": "com.saferoute.app-main-77:/drawable/ic_warning.xml"
+    },
+    {
+        "merged": "com.saferoute.app-merged_res-75:/drawable_ic_notification_important.xml.flat",
+        "source": "com.saferoute.app-main-77:/drawable/ic_notification_important.xml"
+    },
+    {
+        "merged": "com.saferoute.app-merged_res-75:/drawable_ic_fall_detection.xml.flat",
+        "source": "com.saferoute.app-main-77:/drawable/ic_fall_detection.xml"
+    },
+    {
+        "merged": "com.saferoute.app-merged_res-75:/xml_data_extraction_rules.xml.flat",
+        "source": "com.saferoute.app-main-77:/xml/data_extraction_rules.xml"
+    }
+]
